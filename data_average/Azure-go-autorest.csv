@@ -1,0 +1,17 @@
+url,developer,commit_hash,commit_date,churn,dmm_unit_size,dmm_unit_complexity,dmm_unit_interfacing
+https://github.com/Azure/go-autorest,jhendrix@microsoft.com,93a6fda0d7a8a7f5f1560e073e61b2666c9f20d1,2023-01-17 16:39:43,63,,,
+https://github.com/Azure/go-autorest,github@bernd.dev,79575dd7ba2e88e7ce7ab84e167ec6653dcb70c1,2023-01-17 16:45:42,2,,,
+https://github.com/Azure/go-autorest,tareq.sha@gmail.com,9038e4a609b1899f0eb382d03c3e823b70537125,2023-01-17 19:03:26,31,0.25,1.0,1.0
+https://github.com/Azure/go-autorest,jhendrix@microsoft.com,ee71315119d4d7088d74ca9fcbc7301ce2ed2bc1,2023-02-27 17:41:25,739,,,
+https://github.com/Azure/go-autorest,ftdchenwz@gmail.com,553a90ae65a6a2b18306fa04d7b1625960c5decb,2023-03-15 18:42:44,125,0.4155844155844156,1.0,0.6623376623376623
+https://github.com/Azure/go-autorest,jhendrix@microsoft.com,c2958ac74c65c138045daa60f149c5f9d949d743,2023-04-27 23:34:14,6,,,
+https://github.com/Azure/go-autorest,guoguangwu@magic-shield.com,be633f7b83b41fc9bd41f4e99aa8664a9fa070fb,2023-05-30 14:31:00,219,,,
+https://github.com/Azure/go-autorest,guoguangwu@magic-shield.com,d3f8f8a6cdf252e58b19b99523c25c5ad6664ac7,2023-06-28 13:45:01,4,,,
+https://github.com/Azure/go-autorest,chrisst@google.com,df94ce56f001508aded251f04d430af23ac9ad50,2023-09-05 22:26:33,4,,0.0,
+https://github.com/Azure/go-autorest,49699333+dependabot[bot]@users.noreply.github.com,421024781a7dabf82f16706f3dd68389757edbd4,2024-01-04 00:11:53,16,,,
+https://github.com/Azure/go-autorest,49699333+dependabot[bot]@users.noreply.github.com,4956109077e14281bdb7bd34d359057e057209cc,2024-01-04 00:17:38,16,,,
+https://github.com/Azure/go-autorest,49699333+dependabot[bot]@users.noreply.github.com,e2786c16c43a6c8da00fe44df8500332756d5005,2024-01-04 00:24:01,16,,,
+https://github.com/Azure/go-autorest,49699333+dependabot[bot]@users.noreply.github.com,4c0e21ca2bbb3251fe7853e6f9df6397f53dd419,2024-01-04 00:28:55,16,,,
+https://github.com/Azure/go-autorest,jhendrix@microsoft.com,f7ea664c9cff3a5257b6dbc4402acadfd8be79f1,2024-05-30 14:04:49,2,,,
+https://github.com/Azure/go-autorest,jhendrix@microsoft.com,c0165cf08a60b9ed0d7e7184e9585a5069d690fe,2025-01-28 16:07:52,20,,,
+https://github.com/Azure/go-autorest,jhendrix@microsoft.com,33e12ab7683c1c236a863ccfbfdd78c626f7fe28,2025-01-28 16:29:15,15,,,

@@ -1,0 +1,26 @@
+url,developer,commit_hash,commit_date,churn,dmm_unit_size,dmm_unit_complexity,dmm_unit_interfacing
+https://github.com/KnpLabs/snappy,antoine.lelaisant@knplabs.com,cef6d3fd349236312e822e99957a0fbbac3f2cba,2023-03-16 15:43:30,12,,,
+https://github.com/KnpLabs/snappy,antoine.lelaisant@knplabs.com,1ee6360cbdbea5d09705909a150df7963a88efd6,2023-03-17 14:46:37,28,0.0,0.8636363636363636,1.0
+https://github.com/KnpLabs/snappy,antoine.lelaisant@knplabs.com,b66f79334421c26d9c244427963fa2d92980b5d3,2023-03-17 14:47:54,28,,,
+https://github.com/KnpLabs/snappy,alexpozzi@users.noreply.github.com,42e629c7f2ba7682ed9a404cb15e6cf76fb21c67,2023-05-12 15:16:09,36,0.0,1.0,1.0
+https://github.com/KnpLabs/snappy,8307861+alexpozzi@users.noreply.github.com,619dcfd7b4fb50804288aedd6850d0b4ffabbaea,2023-05-15 06:48:55,36,,,
+https://github.com/KnpLabs/snappy,411493+jeffersonsimaogoncalves@users.noreply.github.com,0b0d96b1e1da203537caf6d70fa2de31485cb17e,2023-06-20 00:08:56,10,,,
+https://github.com/KnpLabs/snappy,8307861+alexpozzi@users.noreply.github.com,aefa77c74a21e18f9d345f21ea96a2eb74d462f6,2023-06-22 14:51:34,10,,,
+https://github.com/KnpLabs/snappy,christopher.georg@sr-travel.de,a6e49852000886e964b95007edab9d1a1bc75995,2023-08-25 09:11:30,13,,,
+https://github.com/KnpLabs/snappy,8307861+alexpozzi@users.noreply.github.com,409ec35b50e8d43d65d31f219398d57f8dc78b4c,2023-08-28 06:48:16,13,,,
+https://github.com/KnpLabs/snappy,alexpozzi@users.noreply.github.com,dde67bca0fcae9ac73963cdfaf8cc3510a148fca,2023-09-06 15:07:47,33,0.0,0.8260869565217391,1.0
+https://github.com/KnpLabs/snappy,8307861+alexpozzi@users.noreply.github.com,d3b742d61a68bf93866032c2c0a7f1486128b67e,2023-09-06 15:24:48,33,,,
+https://github.com/KnpLabs/snappy,alexpozzi@users.noreply.github.com,ca03dc1880820811d3d01e293ccf6227dda8765d,2023-09-13 07:17:35,54,0.0,0.0,1.0
+https://github.com/KnpLabs/snappy,alexpozzi@users.noreply.github.com,63f18db8f36198acc4de7c9c9a779a063ef80a69,2023-09-13 09:53:41,49,1.0,0.0,1.0
+https://github.com/KnpLabs/snappy,8307861+alexpozzi@users.noreply.github.com,3db13fe45d12a7bccb2b83f622e5a90f7e40b111,2023-09-13 12:18:19,83,,,
+https://github.com/KnpLabs/snappy,alexpozzi@users.noreply.github.com,1fdc936eb4a624b37546fcaaef64aaa741d065bd,2023-12-18 09:10:10,73,,,
+https://github.com/KnpLabs/snappy,8307861+alexpozzi@users.noreply.github.com,98468898b50c09f26d56d905b79b0f52a2215da6,2023-12-18 09:12:11,73,,,
+https://github.com/KnpLabs/snappy,christopher.georg@sr-travel.de,bf3c3744fa6f72a2eaa21a93228ae00c986b68e3,2024-02-18 12:39:56,12,,,
+https://github.com/KnpLabs/snappy,8307861+alexpozzi@users.noreply.github.com,5388a1a8026b670a15b479f6d07dc0e04724af25,2024-02-19 07:26:09,12,,,
+https://github.com/KnpLabs/snappy,christopher.georg@sr-travel.de,028181b142873076fa4f4162786bc470c81da197,2024-11-21 16:23:44,10,,,
+https://github.com/KnpLabs/snappy,christopher.georg@sr-travel.de,6aee07e38c6c9cecb3c16aad2e5e23c672ddbb4e,2024-11-21 16:29:17,6,,,
+https://github.com/KnpLabs/snappy,christopher.georg@sr-travel.de,3a05d201e4814ae0b8817b2d68638f476d5c143f,2024-11-21 16:31:21,3,,,
+https://github.com/KnpLabs/snappy,christopher.georg@sr-travel.de,9c367d10a55f0fd1f27d111c3a171ef715a092b0,2024-11-21 16:39:50,18,,,
+https://github.com/KnpLabs/snappy,8307861+alexpozzi@users.noreply.github.com,8c502df91f7ab879c97609c1689e1455f241bf61,2025-01-06 08:23:21,13,,,
+https://github.com/KnpLabs/snappy,christopher.georg@sr-travel.de,3ea36fe37fad44a2182e038665c4ca63aeb5a75d,2025-01-06 08:46:28,4,,,
+https://github.com/KnpLabs/snappy,8307861+alexpozzi@users.noreply.github.com,3dd138e9e47de91cd2e056c5e6e1a0dd72547ee7,2025-01-06 16:53:26,18,,,

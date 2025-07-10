@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "This repository is used for the thesis of Ahmet Yasir Uckun at Vrije Universiteit Amsterdam, 2025, supervised by Lodewjik Bergmans and Sieuwert van Otterloo."
+authors:
+  - family-names: Uckun
+    given-names: Ahmet Yasir
+title: "Benchmarking Software Maintainability in Enterprise-Driven Open Source Projects in Terms of Developer Engagement"
+version: 1.0.0
+language: en
+date-released: 2025-07-10

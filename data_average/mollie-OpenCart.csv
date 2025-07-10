@@ -1,0 +1,16 @@
+url,developer,commit_hash,commit_date,churn,dmm_unit_size,dmm_unit_complexity,dmm_unit_interfacing
+https://github.com/mollie/OpenCart,taco@tacovansambeek.nl,feb4b5af35812c8ad97880bcd8a937278f663427,2023-11-15 12:09:19,42227,0.4534795353381826,0.566822277711432,1.0
+https://github.com/mollie/OpenCart,taco@tacovansambeek.nl,5ab593dceedb17225aec13117cf21a4d8802e481,2023-11-15 12:11:21,9,,,
+https://github.com/mollie/OpenCart,taco@qualityworks.eu,94365418bb9f558f921c27a35d555b1ffacff189,2023-11-15 12:12:48,42218,,,
+https://github.com/mollie/OpenCart,taco@tacovansambeek.nl,ddd84061f70092d9419a0c91354a527bcaa19aae,2023-11-15 12:40:48,0,,,
+https://github.com/mollie/OpenCart,taco@qualityworks.eu,af2e320e9db8c2cfb14c3f97c6d50778238fbedb,2023-11-15 12:44:01,0,,,
+https://github.com/mollie/OpenCart,taco@tacovansambeek.nl,52e447bb315e4a89e3981186e1fb783c1b324086,2024-03-13 10:57:46,3235,1.0,0.0,0.0
+https://github.com/mollie/OpenCart,taco@qualityworks.eu,914718a5dabf04ce929887bff2c93629f7754200,2024-03-13 11:00:05,3235,,,
+https://github.com/mollie/OpenCart,taco@tacovansambeek.nl,bdffdd8dd6bfcadbc257a12ebb4d615ee1d01448,2024-03-15 08:21:04,227,0.0,0.0,1.0
+https://github.com/mollie/OpenCart,taco@qualityworks.eu,0d242f3d96818fc36b4da3cf784600608cf891e8,2024-03-15 08:21:45,227,,,
+https://github.com/mollie/OpenCart,taco@tacovansambeek.nl,06d8c024a700c316692a2cace40ea142bc3920a7,2024-06-25 11:48:15,912,1.0,0.7222222222222222,0.0
+https://github.com/mollie/OpenCart,taco@qualityworks.eu,4b3667b94ffd4de01f06d687067703ae14e44d55,2024-06-25 11:50:08,912,,,
+https://github.com/mollie/OpenCart,taco@tacovansambeek.nl,0bc66fe2cbc2ba3813d7e277ee2e1be534e4016d,2024-08-21 11:48:49,5933,0.8922558922558923,0.7138047138047138,1.0
+https://github.com/mollie/OpenCart,taco@qualityworks.eu,3e7f1506f6567bed39c0d9d13d415c009b082ebc,2024-08-21 11:51:25,5933,,,
+https://github.com/mollie/OpenCart,taco@tacovansambeek.nl,7dc942771d63283c08c91f6831c137d0f8beec2b,2025-01-29 08:46:41,3593,0.5545171339563862,0.9657320872274143,1.0
+https://github.com/mollie/OpenCart,taco@qualityworks.eu,8c06495ba1f0dabe44aedf4224f5991f300ae245,2025-01-29 08:59:28,3593,,,
