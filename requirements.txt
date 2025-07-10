@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+datetime
+scipy
+seaborn
+scikit-learn
+requests
+pydriller
+tqdm
+python-dateutil
